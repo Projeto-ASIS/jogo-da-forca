@@ -7,9 +7,9 @@ let rodada = 1
 let terminou = false
 
 const matrizJogoDaVelha = [
-  [0, 0, 0],
-  [0, 0, 0],
-  [0, 0, 0]
+     [0, 0, 0],
+     [0, 0, 0],
+     [0, 0, 0]
 ]
 
 console.log(`
@@ -18,14 +18,22 @@ _____|_____|_____\n
      |     |     \n
 _____|_____|_____\n
      |     |     \n
-     |     |     \n
+     |     |     
 `)
 
-while(!terminou){
-  const jogadorDaVez = rodada % 2 === 1 ? usuario1 : usuario2   
-  const numeroDaCasa = entrada.question(`${jogadorDaVez}, qual casa você deseja preencher ?\n1, 2, 3, 4, 5, 6, 7, 8 ou 9`)
+while (!terminou) {
+     const jogadorDaVez = rodada % 2 === 1 ? usuario1 : usuario2
+     console.log(`
+     |       |     \n
+_____|_______|_____\n
+     |       |     \n
+_____|_______|_____\n
+     |       |     \n
+     |       |     
+`)
+     const numeroDaCasa = entrada.question(`${jogadorDaVez}, qual casa você deseja preencher ?\n1, 2, 3, 4, 5, 6, 7, 8 ou 9`)
 
-  console.log(numeroDaCasa)
-  rodada++
+     console.log(numeroDaCasa)
+     rodada++
+     console.clear()
 }
-
