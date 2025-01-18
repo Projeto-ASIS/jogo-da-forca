@@ -22,5 +22,10 @@ _____|_____|_____\n
 `)
 
 while(!terminou){
-  const numeroDaCasa = entrada.question("Qual casa o jogador deseja preencher?\n1, 2, 3, 4, 5, 6, 7, 8 ou 9")
+  const jogadorDaVez = rodada % 2 === 1 ? usuario1 : usuario2   
+  const numeroDaCasa = entrada.question(`${jogadorDaVez}, qual casa você deseja preencher ?\n1, 2, 3, 4, 5, 6, 7, 8 ou 9`)
+
+  console.log(numeroDaCasa)
+  rodada++
 }
+
