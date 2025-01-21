@@ -19,8 +19,8 @@ Este projeto é uma implementação simples do jogo da velha (tic-tac-toe) em Ja
 
 ## Contruibuidores
 
-<img src="https://avatars.githubusercontent.com/u/133066861?v=4"></img>
-<img src="https://avatars.githubusercontent.com/u/68707931?v=4"></img>
-<img src="https://avatars.githubusercontent.com/u/62726058?v=4"></img>
-<img src="https://avatars.githubusercontent.com/u/147565148?v=4"></img>
-<img src="https://avatars.githubusercontent.com/u/115739128?v=4"></img>
+<img style="min-width:96px ; max-width:192px" src="https://avatars.githubusercontent.com/u/133066861?v=4"></img>
+<img style="min-width:96px ; max-width:192px"src="https://avatars.githubusercontent.com/u/68707931?v=4"></img>
+<img style="min-width:96px ; max-width:192px"src="https://avatars.githubusercontent.com/u/62726058?v=4"></img>
+<img style="min-width:96px ; max-width:192px" src="https://avatars.githubusercontent.com/u/147565148?v=4"></img>
+<img style="min-width:96px ; max-width:192px" src="https://avatars.githubusercontent.com/u/115739128?v=4"></img>
