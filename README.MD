@@ -14,13 +14,13 @@ Este projeto é uma implementação simples do jogo da velha (tic-tac-toe) em Ja
 ## Como Executar 🎬
 
 1. **Instale o Node.js**: Certifique-se de ter o Node.js instalado em sua máquina.
-2. **Instale o readline-sync: Execute npm install readline-sync para instalar a dependência necessária.(O projeto ja vem com a pasta node_modules , portanto não é necessário a instalação , porém caso houver algum erro recorra ao ponto 2.)
+2. **Instale o readline-sync**: Execute npm install readline-sync para instalar a dependência necessária.(O projeto ja vem com a pasta node_modules , portanto não é necessário a instalação , porém caso houver algum erro recorra ao ponto 2.)
 3. **Execute o Jogo**: Execute o arquivo JavaScript com node index.js.
 
 ## Contribuidores 👷‍♂️
 
-<img style="min-width:96px; max-width:192px;" src="https://avatars.githubusercontent.com/u/133066861?v=4"></img>
-<img style="min-width:96px; max-width:192px;" src="https://avatars.githubusercontent.com/u/68707931?v=4"></img>
-<img style="min-width:96px; max-width:192px;" src="https://avatars.githubusercontent.com/u/62726058?v=4"></img>
-<img style="min-width:96px; max-width:192px;" src="https://avatars.githubusercontent.com/u/147565148?v=4"></img>
-<img style="min-width:96px; max-width:192px;" src="https://avatars.githubusercontent.com/u/115739128?v=4"></img>
+<img style="width: 96px;" src="https://avatars.githubusercontent.com/u/133066861?v=4"></img>
+<img style="width: 96px;" src="https://avatars.githubusercontent.com/u/68707931?v=4"></img>
+<img style="width: 96px;" src="https://avatars.githubusercontent.com/u/62726058?v=4"></img>
+<img style="width: 96px;" src="https://avatars.githubusercontent.com/u/147565148?v=4"></img>
+<img style="width: 96px;" src="https://avatars.githubusercontent.com/u/115739128?v=4"></img>
